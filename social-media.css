@@ -14,7 +14,7 @@
     
     display:flex;
     justify-content: center;
-    background-image: url("/icons/tricky_logo.png");
+    background-image: url("icons/tricky_logo.png");
     background-position:12%;
     background-size:contain;
     background-repeat: no-repeat;
